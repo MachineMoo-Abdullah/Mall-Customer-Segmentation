@@ -1,0 +1,1 @@
+Developed a customer segmentation model using KMeans, DBSCAN, and Agglomerative Clustering. Applied PCA for visualization and evaluated models using Silhouette Score and Davies-Bouldin Index to identify optimal clusters for targeted marketing strategies.
